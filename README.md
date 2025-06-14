@@ -99,6 +99,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YoussefAbdeen4/YoussefAbdeen4/output/snake.svg" alt="Snake animation" />
 
 ###
