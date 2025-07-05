@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="150" src="https://sm.ign.com/t/ign_in/screenshot/default/attack-on-titan-eren_duqn.2560.jpg"  />
+<img align="right" width="200" height="150" src="https://sm.ign.com/t/ign_in/screenshot/default/attack-on-titan-eren_duqn.2560.jpg"  />
 
 ###
 
