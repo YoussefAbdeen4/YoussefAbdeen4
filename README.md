@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" width="30" height="30" alt="laravel logo"  />
 </div>
 
 ###
