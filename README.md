@@ -30,12 +30,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg](https://img.icons8.com/?size=96&id=laYYF3dV0Iew&format=png" height="30" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
 
-<img align="right" width="200" height="150" src="https://sm.ign.com/t/ign_in/screenshot/default/attack-on-titan-eren_duqn.2560.jpg"  />
+<img align="right" width="300" height="200" src="https://sm.ign.com/t/ign_in/screenshot/default/attack-on-titan-eren_duqn.2560.jpg"  />
 
 ###
 
