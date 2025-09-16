@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Back end developer | PHP Laravel </h2>
+<h2 align="center">Back end developer | PHP Laravel </h2>
 
 ###
 
