@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Back end developer | PHP Laravel | Cyper Security 🔏 | Web application pentesting 👨🏻‍💻</h2>
+<h2 align="left">Back end developer | PHP Laravel </h2>
 
 ###
 
@@ -101,6 +101,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YoussefAbdeen4/YoussefAbdeen4/output/snake.svg" alt="Snake animation" />
+
 
 ###
